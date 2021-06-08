@@ -1,0 +1,1 @@
+The main aim of *this project* is to get used to working with **git, github and related source code management** environment.
